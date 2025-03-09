@@ -1,6 +1,6 @@
 # Tiago do Nascimento Pinto da Silva
 
-## 👨‍💻 CTO & Technology Leader
+## 👨🏿‍💻 CTO & Technology Leader
 
 > Transforming the construction industry through technology innovation and digital transformation
 
@@ -9,7 +9,7 @@ With over 20 years of experience, I lead innovation initiatives in the construct
 ### 🛠️ Current Technology Focus
 - Cloud-native architectures & Multicloud strategy
 - Generative AI implementation in products
-- Data-driven decision making with Databricks
+- Data-driven decision making with Data Plataform
 - API-first development & platform thinking
 
 ### 📊 My Tech Leadership Approach
