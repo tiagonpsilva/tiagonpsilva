@@ -1,4 +1,4 @@
-![Tiago](files/foto_perfil_p.PNG)
+![Tiago](files/perfil_p.png)
 # Tiago do Nascimento Pinto da Silva
 
 
