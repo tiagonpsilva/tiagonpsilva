@@ -1,6 +1,6 @@
-![Tiago](files/perfil_p.png)
-# Tiago do Nascimento Pinto da Silva
 
+# Tiago do Nascimento Pinto da Silva
+![Tiago](files/perfil_p.png)
 
 ## 👨‍💻‍🏫 Líder de Tecnologia aplicada a SaaS
 
