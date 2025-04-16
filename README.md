@@ -31,6 +31,7 @@ produtos
 
 ### 🧪 Desenvolvimento e Exemplos de Código
 
+* [calculadora-ganho](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
 * [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
 * [arch-concepts](https://github.com/tiagonpsilva/arch-concepts) - Conceitos e exemplos de arquitetura de software
 
