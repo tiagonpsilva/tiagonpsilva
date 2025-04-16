@@ -7,7 +7,7 @@
 > Especialista em Concepção e Evolução de Soluções SaaS | Da Inovação à Sustentação
 
 ### 📋 Resumo Executivo
-- 20+ anos de experiência
+- 20+ anos de experiência com Tecnologia da Informação
 - Direção de times multidisciplinares com mais de 40 profissionais
 - Especialista em Cloud Computing (estratégico, tático e operacional)
 - Concepção e implementação de arquiteturas distribuídas escaláveis (System
