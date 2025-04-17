@@ -2,7 +2,7 @@
 # Tiago do Nascimento Pinto da Silva
 
 
-## 👨‍💻‍🏫 Líder de Tecnologia aplicada a SaaS
+## 👨‍💻‍👷 Líder de Tecnologia aplicada a SaaS
 
 > Especialista em Concepção e Evolução de Soluções SaaS | Da Inovação à Sustentação
 
@@ -19,7 +19,7 @@ produtos
 - Experiência com metodologias ágeis e gestão de fluxos de trabalho
 
 
-## 📚 Índice de Repositórios
+## 📖 Índice de Repositórios
 
 ### ✨ Inteligência Artificial Generativa (GenAI)
 
@@ -29,9 +29,14 @@ produtos
 * [genai-langchain-tutorial](https://github.com/tiagonpsilva/genai-langchain-tutorial) - Tutorial sobre LangChain para IA Generativa
 * [genai-prompts-collection](https://github.com/tiagonpsilva/genai-prompts-collection) - Coleção de prompts úteis para uso com LLMs
 
-### 🧪 Desenvolvimento e Exemplos de Código
+### 🧠 Machine Learning e Ciência de Dados
 
-* [calculadora-ganho](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
+* [ml-random-forest-tickets-forecast](https://github.com/tiagonpsilva/ml-random-forest-tickets-forecast) - Projeto de machine learning usando Random Forest para previsão de tickets
+* [ml-random-forest-previsao-tickets](https://github.com/tiagonpsilva/ml-random-forest-previsao-tickets) - Projeto de machine learning usando Random Forest para previsão de tickets de suporte com base em dados históricos
+
+### 👨‍💻 Desenvolvimento e Exemplos de Código
+
+* [calculadora-ganho-capital](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
 * [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
 * [arch-concepts](https://github.com/tiagonpsilva/arch-concepts) - Conceitos e exemplos de arquitetura de software
 
@@ -49,7 +54,7 @@ produtos
 
 
 
-## 🏆 CERTIFICAÇÕES
+## 🎓 CERTIFICAÇÕES
 
 ### ☁️︎ AWS
 - AWS Certified Solutions Architect - Associate
@@ -72,7 +77,6 @@ produtos
 ### 🇺🇸 EUA
 - AWS re:Invent 2020,2022,2023,2024
 - Google Cloud Next 2025
-
 
 
 ## 💼 Contato
