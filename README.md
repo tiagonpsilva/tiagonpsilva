@@ -32,7 +32,6 @@ produtos
 ### 🧠 Machine Learning e Ciência de Dados
 
 * [ml-random-forest-tickets-forecast](https://github.com/tiagonpsilva/ml-random-forest-tickets-forecast) - Projeto de machine learning usando Random Forest para previsão de tickets
-* [ml-random-forest-previsao-tickets](https://github.com/tiagonpsilva/ml-random-forest-previsao-tickets) - Projeto de machine learning usando Random Forest para previsão de tickets de suporte com base em dados históricos
 
 ### 👨‍💻 Desenvolvimento e Exemplos de Código
 
