@@ -56,7 +56,6 @@ produtos
 - AWS Certified Developer - Associate
 - AWS Certified Cloud Practitioner
 - AWS Certified AI Practitioner (Early Adopter)
-- Participante de 4 edições do AWS re:Invent (USA)
 
 ![](./files/aws-certified-ai-practitioner-early-adopter.png) ![](./files/aws-certified-solutions-architect-associate.png) ![](./files/aws-certified-developer-associate.png) ![](./files/aws-certified-cloud-practitioner.png)
 
@@ -72,7 +71,7 @@ produtos
 
 ### 🇺🇸 EUA
 - AWS re:Invent 2020,2022,2023,2024
-- Google Next 2025
+- Google Cloud Next 2025
 
 
 
