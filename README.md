@@ -8,7 +8,7 @@
 
 ### 📋 Resumo Executivo
 - 20+ anos de experiência com Tecnologia da Informação
-- Direção de times multidisciplinares com mais de 40 profissionais
+- Direção de times técnicos multidisciplinares
 - Especialista em Cloud Computing (estratégico, tático e operacional)
 - Concepção e implementação de arquiteturas distribuídas escaláveis (System
 Design)
@@ -16,7 +16,7 @@ Design)
 - Liderança orientada a dados em Cloud, Produtividade e Engenharia de Software
 - Implementação de IA para automação, produtividade e enriquecimento de
 produtos
-- Experiência com metodologias ágeis e gestão de transformação digital
+- Experiência com metodologias ágeis e gestão de fluxos de trabalho
 
 
 ## 📚 Índice de Repositórios
