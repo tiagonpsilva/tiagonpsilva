@@ -2,11 +2,11 @@
 # Tiago do Nascimento Pinto da Silva
 
 
-## 👨‍💻‍👷 Líder de Tecnologia aplicada a SaaS
+## 💻 Especialista em Tecnologia da Informação para SaaS
 
-> Especialista em Concepção e Evolução de Soluções SaaS | Da Inovação à Sustentação
+> System Architecture | Cloud | DevOps | Software Engineer | GenAI | Flow Management | Agile 
 
-### 📋 Resumo Executivo
+### 📋 Resumo de Atuação
 - 20+ anos de experiência com Tecnologia da Informação
 - Direção de times técnicos multidisciplinares
 - Especialista em Cloud Computing (estratégico, tático e operacional)
