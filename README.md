@@ -4,7 +4,7 @@
 
 ## 💻 Especialista em Tecnologia da Informação para SaaS
 
-> System Architecture | Cloud | DevOps | Software Engineer | GenAI | Flow Management | Agile 
+> System Architecture | Cloud | DevOps | Software Engineering | GenAI | Flow Management | Agile 
 
 ### 📋 Resumo de Atuação
 - 20+ anos de experiência com Tecnologia da Informação
