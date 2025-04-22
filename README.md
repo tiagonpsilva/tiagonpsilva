@@ -2,11 +2,11 @@
 # Tiago do Nascimento Pinto da Silva
 
 
-## 💻 Especialista em Tecnologia da Informação para SaaS
+## 🔧 Especialista em Tecnologia da Informação para SaaS
 
 > System Architecture | Cloud | DevOps | Software Engineering | GenAI | Flow Management | Agile 
 
-### 📋 Resumo de Atuação
+### 👋 Resumo de Atuação
 - 20+ anos de experiência com Tecnologia da Informação
 - Direção de times técnicos multidisciplinares
 - Especialista em Cloud Computing (estratégico, tático e operacional)
@@ -19,15 +19,18 @@ produtos
 - Experiência com metodologias ágeis e gestão de fluxos de trabalho
 
 
-## 📖 Índice de Repositórios
+## 🖖 Índice de Repositórios
 
-### ✨ Inteligência Artificial Generativa (GenAI)
+### ⌨ Inteligência Artificial Generativa (GenAI)
 
 * [genai-app-mcp-jira-github](https://github.com/tiagonpsilva/genai-app-mcp-jira-github) - Aplicação de IA Generativa integrando dados do Jira e GitHub para apoio aos processos de engenharia de software
 * [genai-mcp-client-claude-github](https://github.com/tiagonpsilva/genai-mcp-client-claude-github) - Cliente para integração Claude/GitHub
-* [genai-mcp-server-demo](https://github.com/tiagonpsilva/genai-mcp-server-demo) - Servidor demo para GenAI MCP
-* [genai-langchain-tutorial](https://github.com/tiagonpsilva/genai-langchain-tutorial) - Tutorial sobre LangChain para IA Generativa
 * [genai-prompts-collection](https://github.com/tiagonpsilva/genai-prompts-collection) - Coleção de prompts úteis para uso com LLMs
+
+### 📝 Arquitetura e Engenharia de Software
+
+* [arquitetura-software-fundamentos](https://github.com/tiagonpsilva/arquitetura-software-fundamentos) - Repositório com introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado para arquitetura de software
+* [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
 
 ### 🧠 Machine Learning e Ciência de Dados
 
@@ -36,8 +39,6 @@ produtos
 ### 👨‍💻 Desenvolvimento e Exemplos de Código
 
 * [calculadora-ganho-capital](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
-* [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
-* [arch-concepts](https://github.com/tiagonpsilva/arch-concepts) - Conceitos e exemplos de arquitetura de software
 
 
 ### 🛠️ Ferramentas e Utilitários
@@ -55,7 +56,7 @@ produtos
 
 ## 🎓 CERTIFICAÇÕES
 
-### ☁️︎ AWS
+### ☁️️ AWS
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Developer - Associate
 - AWS Certified Cloud Practitioner
@@ -70,14 +71,13 @@ produtos
 - Flight Levels Systems Architecture (FLSA) - Flight Levels Academy
 
 
-## 🌎 EVENTOS INTERNACIONAIS
+## 📊 EVENTOS INTERNACIONAIS
 
 
 ### 🇺🇸 EUA
 - AWS re:Invent 2020,2022,2023,2024
 - Google Cloud Next 2025
 
-
-## 💼 Contato
+## 📼 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagonpsilva/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagonpsilva@gmail.com)
