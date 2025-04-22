@@ -29,21 +29,18 @@ produtos
 * [genai-langchain-tutorial](https://github.com/tiagonpsilva/genai-langchain-tutorial) - Tutorial sobre LangChain para IA Generativa
 * [genai-prompts-collection](https://github.com/tiagonpsilva/genai-prompts-collection) - Coleção de prompts úteis para uso com LLMs
 
-### 📊 Machine Learning e Ciência de Dados
+### 🧠 Machine Learning e Ciência de Dados
 
 * [ml-random-forest-tickets-forecast](https://github.com/tiagonpsilva/ml-random-forest-tickets-forecast) - Projeto de machine learning usando Random Forest para previsão de tickets
 
-### 👨‍💻 Arquitetura e Engenharia de Software
-
-* [architecture-decision-records](https://github.com/tiagonpsilva/architecture-decision-records) - Registro de Decisões de Arquitetura (ADRs) documentando escolhas técnicas importantes
-* [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem minimalista e elegante para documentação de arquitetura de software
-* [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Guia abrangente sobre os 20 principais conceitos de design de sistemas
-* [software-architecture-foundations](https://github.com/tiagonpsilva/software-architecture-foundations) - Introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado
-
-### 🖥️ Desenvolvimento e Exemplos de Código
+### 👨‍💻 Desenvolvimento e Exemplos de Código
 
 * [calculadora-ganho-capital](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
 * [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
+* [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem minimalista e elegante para documentação de arquitetura de software
+* [architecture-decision-records](https://github.com/tiagonpsilva/architecture-decision-records) - Registro de Decisões de Arquitetura (ADRs) documentando escolhas técnicas importantes
+* [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Guia abrangente sobre os principais conceitos de design de sistemas
+* [software-architecture-foundations](https://github.com/tiagonpsilva/software-architecture-foundations) - Introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado
 * [diagrams-mermaid](https://github.com/tiagonpsilva/diagrams-mermaid) - Exemplos de diagramas usando Mermaid
 
 ### 🛠️ Ferramentas e Utilitários
