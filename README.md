@@ -20,7 +20,7 @@ produtos
 
 ## 🔖 Índice de Repositórios
 
-### ⚡ Inteligência Artificial Generativa (GenAI)
+### ✨ Inteligência Artificial Generativa (GenAI)
 
 * [genai-app-mcp-jira-github](https://github.com/tiagonpsilva/genai-app-mcp-jira-github) - Aplicação de IA Generativa integrando dados do Jira e GitHub para apoio aos processos de engenharia de software
 * [genai-mcp-client-claude-github](https://github.com/tiagonpsilva/genai-mcp-client-claude-github) - Cliente para integração Claude/GitHub
