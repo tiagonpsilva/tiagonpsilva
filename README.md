@@ -26,7 +26,9 @@ produtos
 * [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem minimalista e elegante para documentação de arquitetura de software
 * [architecture-decision-records](https://github.com/tiagonpsilva/architecture-decision-records) - Registro de Decisões de Arquitetura (ADRs) documentando escolhas técnicas importantes
 * [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Guia abrangente sobre os principais conceitos de design de sistemas
+* [system-design-interview](https://github.com/tiagonpsilva/system-design-interview) - Templates e exemplos para entrevistas de design de sistemas
 * [software-architecture-foundations](https://github.com/tiagonpsilva/software-architecture-foundations) - Introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado
+* [diagrams-mermaid](https://github.com/tiagonpsilva/diagrams-mermaid) - Exemplos de diagramas usando Mermaid
 
 ### ⚡ Inteligência Artificial Generativa (GenAI)
 
@@ -44,7 +46,6 @@ produtos
 
 * [calculadora-ganho-capital](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
 * [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
-* [diagrams-mermaid](https://github.com/tiagonpsilva/diagrams-mermaid) - Exemplos de diagramas usando Mermaid
 
 ### 🛠️ Ferramentas e Utilitários
 
