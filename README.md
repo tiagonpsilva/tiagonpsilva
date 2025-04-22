@@ -2,7 +2,7 @@
 # Tiago do Nascimento Pinto da Silva
 
 
-## 🔫 Especialista em Tecnologia da Informação para SaaS
+## 💻  Especialista em Tecnologia da Informação para SaaS
 
 > System Architecture | Cloud | DevOps | Software Engineering | GenAI | Flow Management | Agile 
 
