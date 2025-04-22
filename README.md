@@ -2,7 +2,7 @@
 # Tiago do Nascimento Pinto da Silva
 
 
-## 💻 Especialista em Tecnologia da Informação para SaaS
+## 🔫 Especialista em Tecnologia da Informação para SaaS
 
 > System Architecture | Cloud | DevOps | Software Engineering | GenAI | Flow Management | Agile 
 
@@ -20,6 +20,13 @@ produtos
 
 
 ## 🔖 Índice de Repositórios
+
+### 🏛️ Arquitetura e Engenharia de Software
+
+* [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem minimalista e elegante para documentação de arquitetura de software
+* [architecture-decision-records](https://github.com/tiagonpsilva/architecture-decision-records) - Registro de Decisões de Arquitetura (ADRs) documentando escolhas técnicas importantes
+* [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Guia abrangente sobre os principais conceitos de design de sistemas
+* [software-architecture-foundations](https://github.com/tiagonpsilva/software-architecture-foundations) - Introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado
 
 ### ⚡ Inteligência Artificial Generativa (GenAI)
 
@@ -43,13 +50,6 @@ produtos
 
 * [plantuml-2-png](https://github.com/tiagonpsilva/plantuml-2-png) - Utilitário para gerar arquivos PNG a partir de diagramas PlantUML (.wsd)
 * [mysql-migration-dbs](https://github.com/tiagonpsilva/mysql-migration-dbs) - Scripts para auxiliar em operações de infraestrutura de bancos de dados MySQL
-
-### 🏛️ Arquitetura e Engenharia de Software
-
-* [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem minimalista e elegante para documentação de arquitetura de software
-* [architecture-decision-records](https://github.com/tiagonpsilva/architecture-decision-records) - Registro de Decisões de Arquitetura (ADRs) documentando escolhas técnicas importantes
-* [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Guia abrangente sobre os principais conceitos de design de sistemas
-* [software-architecture-foundations](https://github.com/tiagonpsilva/software-architecture-foundations) - Introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado
 
 ### 📝 Documentação e Base de Conhecimento
 
