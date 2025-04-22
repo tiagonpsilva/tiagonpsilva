@@ -23,7 +23,7 @@ produtos
 
 ### 🏛️ Arquitetura e Engenharia de Software
 
-* [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem minimalista e elegante para documentação de arquitetura de software
+* [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem simplificada para documentação de arquitetura de software
 * [architecture-decision-records](https://github.com/tiagonpsilva/architecture-decision-records) - Registro de Decisões de Arquitetura (ADRs) documentando escolhas técnicas importantes
 * [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Guia abrangente sobre os principais conceitos de design de sistemas
 * [system-design-interview](https://github.com/tiagonpsilva/system-design-interview) - Templates e exemplos para entrevistas de design de sistemas
