@@ -37,10 +37,6 @@ produtos
 
 * [calculadora-ganho-capital](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
 * [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
-* [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem minimalista e elegante para documentação de arquitetura de software
-* [architecture-decision-records](https://github.com/tiagonpsilva/architecture-decision-records) - Registro de Decisões de Arquitetura (ADRs) documentando escolhas técnicas importantes
-* [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Guia abrangente sobre os principais conceitos de design de sistemas
-* [software-architecture-foundations](https://github.com/tiagonpsilva/software-architecture-foundations) - Introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado
 * [diagrams-mermaid](https://github.com/tiagonpsilva/diagrams-mermaid) - Exemplos de diagramas usando Mermaid
 
 ### 🛠️ Ferramentas e Utilitários
@@ -48,6 +44,12 @@ produtos
 * [plantuml-2-png](https://github.com/tiagonpsilva/plantuml-2-png) - Utilitário para gerar arquivos PNG a partir de diagramas PlantUML (.wsd)
 * [mysql-migration-dbs](https://github.com/tiagonpsilva/mysql-migration-dbs) - Scripts para auxiliar em operações de infraestrutura de bancos de dados MySQL
 
+### 🏛️ Arquitetura e Engenharia de Software
+
+* [architecture-haiku](https://github.com/tiagonpsilva/architecture-haiku) - Uma abordagem minimalista e elegante para documentação de arquitetura de software
+* [architecture-decision-records](https://github.com/tiagonpsilva/architecture-decision-records) - Registro de Decisões de Arquitetura (ADRs) documentando escolhas técnicas importantes
+* [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Guia abrangente sobre os principais conceitos de design de sistemas
+* [software-architecture-foundations](https://github.com/tiagonpsilva/software-architecture-foundations) - Introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado
 
 ### 📝 Documentação e Base de Conhecimento
 
