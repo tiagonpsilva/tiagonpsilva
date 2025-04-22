@@ -30,6 +30,8 @@ produtos
 * [software-architecture-foundations](https://github.com/tiagonpsilva/software-architecture-foundations) - Introdução detalhada sobre teoria das filas, teoria das restrições e máquinas de estado
 * [diagrams-mermaid](https://github.com/tiagonpsilva/diagrams-mermaid) - Exemplos de diagramas usando Mermaid
 
+  
+
 ### ⚡ Inteligência Artificial Generativa (GenAI)
 
 * [genai-app-mcp-jira-github](https://github.com/tiagonpsilva/genai-app-mcp-jira-github) - Aplicação de IA Generativa integrando dados do Jira e GitHub para apoio aos processos de engenharia de software
