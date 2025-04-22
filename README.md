@@ -1,12 +1,11 @@
-
 # Tiago do Nascimento Pinto da Silva
 
 
-## 💻 Especialista em Tecnologia da Informação para SaaS
+## 👋 Especialista em Tecnologia da Informação para SaaS
 
 > System Architecture | Cloud | DevOps | Software Engineering | GenAI | Flow Management | Agile 
 
-### 📋 Resumo de Atuação
+### 💻 Resumo de Atuação
 - 20+ anos de experiência com Tecnologia da Informação
 - Direção de times técnicos multidisciplinares
 - Especialista em Cloud Computing (estratégico, tático e operacional)
@@ -19,7 +18,7 @@ produtos
 - Experiência com metodologias ágeis e gestão de fluxos de trabalho
 
 
-## 📖 Índice de Repositórios
+## 🔖 Índice de Repositórios
 
 ### ✨ Inteligência Artificial Generativa (GenAI)
 
@@ -35,6 +34,7 @@ produtos
 
 ### 👨‍💻 Desenvolvimento e Exemplos de Código
 
+* [system-design-concepts](https://github.com/tiagonpsilva/system-design-concepts) - Coleção de conceitos fundamentais de design de sistemas distribuídos
 * [calculadora-ganho-capital](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
 * [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
 * [arch-concepts](https://github.com/tiagonpsilva/arch-concepts) - Conceitos e exemplos de arquitetura de software
@@ -55,7 +55,7 @@ produtos
 
 ## 🎓 CERTIFICAÇÕES
 
-### ☁️︎ AWS
+### ⛅️️ AWS
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Developer - Associate
 - AWS Certified Cloud Practitioner
@@ -80,4 +80,4 @@ produtos
 
 ## 💼 Contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiagonpsilva/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagonpsilva@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiagonpsilva@gmail.com) 
