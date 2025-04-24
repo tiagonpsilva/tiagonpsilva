@@ -71,7 +71,7 @@ produtos
 ![]('./files/aws-certified-ai-practitioner-early-adopter.png') ![]('./files/aws-certified-solutions-architect-associate.png') ![]('./files/aws-certified-developer-associate.png') ![]('./files/aws-certified-cloud-practitioner.png')
 
 
-### 🏄 Metodologias Ágeis
+### 🏄 Gestão de Fluxo / Agilidade
 - Kanban Management Professional (KMP) - Kanban University
 - Customer Experience Professional (CXP) - Kanban University
 - Flight Levels Systems Architecture (FLSA) - Flight Levels Academy
