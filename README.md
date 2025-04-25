@@ -2,9 +2,9 @@
 # Tiago do Nascimento Pinto da Silva
 
 
-## 💻   Especialista em Tecnologia da Informação para SaaS
+## 💻   Head de Tecnologia da Informação
 
-> System Architecture | Cloud | DevOps | Software Engineering | GenAI | Flow Management | Agile 
+> System Design | Arquitetura & Engenharia de Software e Dados | IA Generativa | 4x AWS Certified
 
 ### 📋 Resumo de Atuação
 - 20+ anos de experiência com Tecnologia da Informação
