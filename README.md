@@ -2,7 +2,7 @@
 # Tiago do Nascimento Pinto da Silva
 
 
-## 👨🏿‍💻 Head de Tecnologia da Informação
+##  Head de Tecnologia da Informação
 
 > System Design | Arquitetura & Engenharia de Software e Dados | IA Generativa | 4x AWS Certified
 
@@ -40,7 +40,7 @@ produtos
 * [bigdata-study-spark](https://github.com/tiagonpsilva/bigdata-study-spark) - Repositório de estudo sobre Apache Spark, incluindo exemplos práticos de código e documentação completa
 * [bigdata-study-dbt](https://github.com/tiagonpsilva/bigdata-study-dbt) - Repositório de estudo sobre dbt, incluindo exemplos práticos de código e documentação completa
 
-### 🧠 Inteligência Artificial Generativa (GenAI)
+### ✨ Inteligência Artificial Generativa (GenAI)
 
 * [genai-app-mcp-jira-github](https://github.com/tiagonpsilva/genai-app-mcp-jira-github) - Aplicação de IA Generativa integrando dados do Jira e GitHub para apoio aos processos de engenharia de software
 * [genai-mcp-client-claude-github](https://github.com/tiagonpsilva/genai-mcp-client-claude-github) - Cliente para integração Claude/GitHub
@@ -53,7 +53,7 @@ produtos
 
 * [ml-random-forest-tickets-forecast](https://github.com/tiagonpsilva/ml-random-forest-tickets-forecast) - Projeto de machine learning usando Random Forest para previsão de tickets
 
-### 👨‍💻 Desenvolvimento e Exemplos de Código
+### 👨🏿‍💻 Desenvolvimento e Exemplos de Código
 
 * [calculadora-ganho-capital](https://github.com/tiagonpsilva/calculadora-ganho-capital) - Calculadora de ganho de capital
 * [go-lang-samples](https://github.com/tiagonpsilva/go-lang-samples) - Exemplos de código em Go
@@ -71,7 +71,7 @@ produtos
 
 ## 🏆 CERTIFICAÇÕES
 
-### ☁️⚙ AWS
+### ☁️ AWS
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Developer - Associate
 - AWS Certified Cloud Practitioner
@@ -80,7 +80,7 @@ produtos
 ![]('./files/aws-certified-ai-practitioner-early-adopter.png') ![]('./files/aws-certified-solutions-architect-associate.png') ![]('./files/aws-certified-developer-associate.png') ![]('./files/aws-certified-cloud-practitioner.png')
 
 
-### 🎄 Gestão de Fluxo / Agilidade
+### 🔁 Gestão de Fluxo / Agilidade
 - Kanban Management Professional (KMP) - Kanban University
 - Customer Experience Professional (CXP) - Kanban University
 - Flight Levels Systems Architecture (FLSA) - Flight Levels Academy
