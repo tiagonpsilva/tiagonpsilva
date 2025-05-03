@@ -55,8 +55,7 @@ produtos
 | [genai-prompts-collection](https://github.com/tiagonpsilva/genai-prompts-collection) | Coleção de prompts úteis para uso com LLMs |
 | [cursor-ide-use-cases](https://github.com/tiagonpsilva/cursor-ide-use-cases) | Casos de uso da Cursor IDE: exemplos e diagramas de funcionalidades poderosas |
 | [genai-claude-code-best-practices](https://github.com/tiagonpsilva/genai-claude-code-best-practices) | Boas práticas e exemplos para uso do Claude Code em programação agente |
-| [cursor-ide-myrules](https://github.com/tiagonpsilva/cursor-ide-myrules) | Regras e automações personalizadas para a IDE Cursor |
-| [mcp-commands](https://github.com/tiagonpsilva/mcp-commands) | Coleção de comandos e utilitários para MCP |
+
 
 
 ### 🧠 Machine Learning e Ciência de Dados
