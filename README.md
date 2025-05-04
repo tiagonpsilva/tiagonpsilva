@@ -42,7 +42,7 @@ produtos
 | [bigdata-study-dbt](https://github.com/tiagonpsilva/bigdata-study-dbt) | Repositório de estudo sobre dbt, incluindo exemplos práticos de código e documentação completa |
 | [bigdata-study-prometheus](https://github.com/tiagonpsilva/bigdata-study-prometheus) | Estudo prático sobre monitoramento, métricas, alertas e visualização de dados com Prometheus |
 | [treinamento-modern-data-stack-01](https://github.com/tiagonpsilva/treinamento-modern-data-stack-01) | Treinamento completo e hands-on sobre Modern Data Stack, com foco em análise de dados e ferramentas modernas |
-
+| [databricks-certified-data-engineer-associate](https://github.com/tiagonpsilva/databricks-certified-data-engineer-associate) | Guia completo para a certificação Databricks Certified Data Engineer Associate, estruturado conforme o outline oficial do exame |
 
 ### ✨ Inteligência Artificial Generativa (GenAI)
 
