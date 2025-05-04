@@ -40,6 +40,9 @@ produtos
 | [bigdata-study-airflow](https://github.com/tiagonpsilva/bigdata-study-airflow) | Repositório de estudo sobre Apache Airflow, incluindo exemplos práticos de DAGs e documentação completa |
 | [bigdata-study-spark](https://github.com/tiagonpsilva/bigdata-study-spark) | Repositório de estudo sobre Apache Spark, incluindo exemplos práticos de código e documentação completa |
 | [bigdata-study-dbt](https://github.com/tiagonpsilva/bigdata-study-dbt) | Repositório de estudo sobre dbt, incluindo exemplos práticos de código e documentação completa |
+| [bigdata-study-prometheus](https://github.com/tiagonpsilva/bigdata-study-prometheus) | Estudo prático sobre monitoramento, métricas, alertas e visualização de dados com Prometheus |
+| [treinamento-modern-data-stack-01](https://github.com/tiagonpsilva/treinamento-modern-data-stack-01) | Treinamento completo e hands-on sobre Modern Data Stack, com foco em análise de dados e ferramentas modernas |
+| [databricks-certified-data-engineer-associate](https://github.com/tiagonpsilva/databricks-certified-data-engineer-associate) | Guia completo para a certificação Databricks Certified Data Engineer Associate, estruturado conforme o outline oficial do exame |
 
 ### ✨ Inteligência Artificial Generativa (GenAI)
 
@@ -51,6 +54,9 @@ produtos
 | [genai-langchain-tutorial](https://github.com/tiagonpsilva/genai-langchain-tutorial) | Tutorial sobre LangChain para IA Generativa |
 | [genai-prompts-collection](https://github.com/tiagonpsilva/genai-prompts-collection) | Coleção de prompts úteis para uso com LLMs |
 | [cursor-ide-use-cases](https://github.com/tiagonpsilva/cursor-ide-use-cases) | Casos de uso da Cursor IDE: exemplos e diagramas de funcionalidades poderosas |
+| [genai-claude-code-best-practices](https://github.com/tiagonpsilva/genai-claude-code-best-practices) | Boas práticas e exemplos para uso do Claude Code em programação agente |
+
+
 
 ### 🧠 Machine Learning e Ciência de Dados
 
